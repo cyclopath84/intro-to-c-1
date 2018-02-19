@@ -1,0 +1,20 @@
+
+
+#include <stdio.h>
+
+int main(void)
+
+{
+	int value1, value2, sum;
+	
+	printf ("Please enter a number: ");
+	scanf ("%i", &value1);
+	printf ("Please enter a second number: ");
+	scanf ("%i", &value2);
+	
+	sum = value1 + value2;
+	printf ("The Sum of  %1 and %i is %i", value1, value2, sum);
+	
+	getchar();
+}// end main
+	
