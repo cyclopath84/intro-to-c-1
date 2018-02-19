@@ -12,13 +12,20 @@ int main(void)
 	scanf("%i", &grade);
 	while ( (c = getchar() !='\n') && c != EOF);
 	
+	for (int i = 0; i <= count; ++i)
+	{
+		if (/* condition */)
+		{
+			/* code */
+		}
+	}
 
 	
 	if (grade <10 || grade >50)
 		printf("Invalid grade entered.\n");
 	else
 		printf("You entered %i.\n", grade);	
-	
+
 	getchar();
 }// end main
 	
