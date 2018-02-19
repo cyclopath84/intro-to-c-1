@@ -30,6 +30,9 @@ void main(void)
 	
 	for	something;
 	
+	name = whatever;
+	var = 1;
+	
 }//end main
 	
 	
