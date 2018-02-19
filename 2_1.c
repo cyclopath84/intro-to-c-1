@@ -28,11 +28,6 @@ void main(void)
 	
 	getchar();
 	
-	for	something;
-	
-	name = whatever;
-	var = 1;
-	
 }//end main
 	
 	
